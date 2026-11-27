@@ -75,5 +75,3 @@ The application demonstrates basic CRUD operations, database relationships and t
 ## Author
 
 Piotr Niepsuj
-
-Student – IT / Software Development
